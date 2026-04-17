@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">云文件管理器</string>
+    <string name="connect">连接</string>
+    <string name="disconnect">断开</string>
+    <string name="refresh">刷新</string>
+    <string name="upload">上传</string>
+    <string name="download">下载</string>
+    <string name="delete">删除</string>
+    <string name="rename">重命名</string>
+    <string name="new_folder">新建文件夹</string>
+    <string name="server_config">服务器配置</string>
+    <string name="host">主机地址</string>
+    <string name="port">端口</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="private_key">私钥文件</string>
+    <string name="auto_connect">自动连接</string>
+    <string name="connecting">正在连接…</string>
+    <string name="connected">已连接</string>
+    <string name="disconnected">已断开</string>
+    <string name="error">错误</string>
+    <string name="success">成功</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确认</string>
+    <string name="file_name">文件名</string>
+    <string name="size">大小</string>
+    <string name="modified">修改时间</string>
+    <string name="permissions">权限</string>
+    <string name="folder">文件夹</string>
+    <string name="file">文件</string>
+</resources>

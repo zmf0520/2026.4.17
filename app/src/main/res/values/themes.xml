@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CloudFileManager" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/app_primary_variant</item>
+        <item name="android:navigationBarColor">@color/app_primary_variant</item>
+        <item name="android:colorPrimary">@color/app_primary</item>
+        <item name="android:colorPrimaryDark">@color/app_primary_variant</item>
+        <item name="android:colorAccent">@color/app_secondary</item>
+        <item name="android:windowBackground">@color/app_background</item>
+    </style>
+</resources>
